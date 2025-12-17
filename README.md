@@ -1,5 +1,7 @@
 # Lighten Blend Tool
 
+![Downloads](https://img.shields.io/github/downloads/kekke-9NC/lighten-blend-tool/total?color=blue&style=flat-square)
+
 比較明合成画像・動画を作成するデスクトップアプリケーションです。
 複数の画像や動画ファイルから、明るい部分を合成して出力します。星空の軌跡（スタートレイル）や光跡写真の作成に適しています。
 
